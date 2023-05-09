@@ -2,7 +2,7 @@
 
 ### 1.格式
 ```
-https://file.crazywong.com/gh/aizhiqian/hexo-resource@main/cover_and_img/1.jpg
+https://file.crazywong.com/gh/aizhiqian/hexo_resource@main/cover_and_img/1.jpg
 ```
 其中：
 >``cover_and_img``为文件所在路径   
